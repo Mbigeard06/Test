@@ -1,1 +1,1 @@
-Ce projet montre coment bien utiliser github
+Ce projet utilise les commandes de bases de git pour initier les différents utilisateurs du réseau
